@@ -4,7 +4,6 @@ def calculate_grade(marks):
  studentB
     elif marks >= 70:
     elif marks >= 80:
-   main
         return "B"
     elif marks >= 60:
         return "C"
